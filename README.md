@@ -6,5 +6,4 @@ This repository tracks my progress through the book with solutions, notes, and i
 
 ## Organization
 
-Solutions are grouped by chapter and topic, with filenames matching the problem IDs on their respective online judges.
-
+Solutions are grouped by chapter and topic.
